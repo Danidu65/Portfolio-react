@@ -3,43 +3,43 @@ const Projects = () => {
         {
           title: 'Travel App Clone',
           description: '"Developed using Reacr Native and Expo."',
-          imgSrc: './src/assets/img/project-img1.png',
+          imgSrc: 'public/project-img1.png',
           link: 'https://github.com/Danidu65/travel-app-ui-react-native'
         },
         {
           title: 'Hostal Management System',
           description: '"Built with JavaFX, layered architecture and Hibernate."',
-          imgSrc: './src/assets/img/project-img2.jpg',
+          imgSrc: 'public/project-img2.jpg',
           link: 'https://github.com/Danidu65/Hostal-Management-System'
         },
         {
           title: 'Library Management System',
           description: '"Developed using JavaFX and MVC architecture ."',
-          imgSrc: './src/assets/img/project-img3.jpg',
+          imgSrc: 'public/project-img3.jpg',
           link: 'https://github.com/Danidu65/Library-System-Using-MVC-'
         },
         {
           title: 'Chat Application',
           description: 'The chat application, built with Java socket programming, enables real-time messaging over a network.',
-          imgSrc: './src/assets/img/project-img4.jpg',
+          imgSrc: 'public/project-img4.jpg',
           link: 'https://github.com/Danidu65/ChatAppication'
         },
         {
           title: 'Instagram Clone App',
           description: '"Developed using Reacr Native and Expo."',
-          imgSrc: './src/assets/img/project-img5.png',
+          imgSrc: 'public/project-img5.png',
           link: 'https://github.com/Danidu65/insta-clone-app'
         },
         {
           title: 'Shoe Shop System',
           description: '"Built with Spring Boot for the backend and HTML, CSS, and JavaScript for the frontend."',
-          imgSrc: './src/assets/img/project-img6.jpg',
+          imgSrc: 'public/project-img6.jpg',
           link: 'https://github.com/Danidu65/shoe_Shop'
         },
         {
           title: 'Police Project',
           description: '"Built with JavaFX, layered architecture and Hibernate."',
-          imgSrc: './src/assets/img/project-img7.jpg',
+          imgSrc: 'public/project-img7.jpg',
           link: 'https://github.com/Danidu65/Project-Police'
         },
       ];
