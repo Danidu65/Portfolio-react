@@ -7,7 +7,7 @@ const About = () => {
             {/* Left Side: Image */}
         <div className="mt-10 flex items-center justify-center">
           <img 
-              src="public/hero-img.jpg" 
+              src="/hero-img.jpg" 
               alt="About" 
               className="w-full h-auto max-w-xs lg:max-w-sm mx-auto"
           />
